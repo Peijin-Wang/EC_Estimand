@@ -1,4 +1,4 @@
-# EC Estimator
+# EC Estimand
 
 ## simulation folder
 
