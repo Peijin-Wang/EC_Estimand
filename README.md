@@ -9,4 +9,5 @@
 ## case study folder
 
 `functions.R`: all functions used to generate tables for case study section.
+
 `data_analysis.R`: generate tables.
