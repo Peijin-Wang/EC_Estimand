@@ -1,13 +1,15 @@
-# EC Estimand
+# EC Estimator
 
 ## simulation folder
 
-`functions.R`: all functions used to run the simulation.
+`trial_function.R`: functions used in `trial_dcc.R`.
 
-`sim.R`: run simulation using compute cluster.
+`trial_dcc.R`: run simulation using computing cluster.
 
-## case_study folder
+`simulation_plot.R`: proceed with simulation results (generate tables and figures).
 
-`functions.R`: all functions used to generate tables for the case study section.
+## data_analysis folder
 
-`data_analysis.R`: generate tables.
+`functions.R`: functions used in `data_analysis.R`.
+
+`data_analysis.R`: generate tables in the manuscript.
